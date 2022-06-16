@@ -1,0 +1,109 @@
+.banner img{
+    width: 100%;
+    
+}
+
+.banner a img{
+    width: 50px;
+    height: 50px;
+    margin-left: 29%;
+}
+
+.text h1{
+    font-family: open sans;
+    color:black;
+    margin-top: -30%;
+    text-align: center;
+    position: static;
+    font-size: 80px;
+}
+
+
+
+
+#gridcontainer14{
+    display: grid;
+    grid-template-columns: 100%;
+    margin-top: -20%;
+}
+
+#II1{
+    color:black;
+    padding-top: 40%;
+    font-family: open sans;
+    font-weight: bolder;
+    width:60%;
+    margin-left: 20%;
+    text-align: center;
+}
+
+#II2 img{
+    width: 100%;
+    padding: 20%;
+    margin-top: -10%;
+
+}
+
+#II3{
+    color:black;
+    margin-top: -10%;
+    font-family: open sans;
+    font-weight: bolder;
+    width:60%;
+    margin-left: 20%;
+    text-align: center;
+}
+
+#II8 img{
+    width: 100%;
+    padding: 20%;
+    margin-top: -10%;
+}
+
+#II5{
+    color:black;
+    margin-top: -10%;
+    font-family: open sans;
+    font-weight: bolder;
+    width:60%;
+    margin-left: 20%;
+    text-align: center;
+}
+
+#II7 img{
+    width: 100%;
+    padding: 20%;
+    margin-top: -10%;
+}
+
+#II9{
+    color:black;
+    margin-top: -10%;
+    font-family: open sans;
+    font-weight: bolder;
+    width:60%;
+    margin-left: 20%;
+    text-align: center;
+    margin-bottom: 10%;
+}
+
+footer img{
+    width: 20px;
+    
+}
+
+footer{
+    background-color:white;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+footer a {
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    
+}
+
+
+
